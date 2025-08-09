@@ -1,0 +1,42 @@
+sort1 uses: Selection Sort
+How do you know? :
+- Takes 0.06s to sort1 random5000 list
+- Takes 0.34s to sort1 random10000 list
+- Takes 5.9s to sort1 random50000 list
+
+- Takes 0.11s to sort1 reversed5000 list
+- Takes 0.25s to sort1 reversed10000 list
+- Takes 8.41s to sort1 reversed50000 list
+
+- Takes 0.03s to sort1 sorted5000 list
+- Takes 0.1s to sort1 sorted10000 list
+- Takes 10.46s to sort1 sorted50000 list
+
+sort2 uses: Bubble Sort
+How do you know? :
+- Takes 0.01s to sort1 random5000 list
+- Takes 0.1s to sort1 random10000 list
+- Takes 10.35s to sort1 random50000 list
+
+- Takes 0.03s to sort1 reversed5000 list
+- Takes 0.07s to sort1 reversed10000 list
+- Takes 15.1s to sort1 reversed50000 list
+
+- Takes 0.03s to sort1 sorted5000 list
+- Takes 0.1s to sort1 sorted10000 list
+- Takes 1.83s to sort1 sorted50000 list
+
+
+sort3 uses: Merge Sort
+How do you know? :
+- Takes 0.07s to sort1 random5000 list
+- Takes 0.13s to sort1 random10000 list
+- Takes 2.51s to sort1 random50000 list
+
+- Takes 0.05s to sort1 reversed5000 list
+- Takes 0.15s to sort1 reversed10000 list
+- Takes 4.27s to sort1 reversed50000 list
+
+- Takes 0.04s to sort1 sorted5000 list
+- Takes 0.14s to sort1 sorted10000 list
+- Takes 2.61s to sort1 sorted50000 list
